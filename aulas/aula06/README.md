@@ -102,6 +102,29 @@ Permite que os pacot4es alcancem o endereço final.
 ### Padrão de cores EIA/TIA
 - 568A
 - 568B
-- 
 
+## Elementos ativos de uma rede
+- Repetidores
+- Pontes/bridges
+- Roteadores
+- Gateway
+- Hub
+- Switch
 
+## Estrutura de Rede Lan/Man
+
+Norma IEEE 802: ethernet
+
+- 802.3 - ethernet
+- 802.3:100 - fast ethernet
+
+## Entidades reguladoras
+
+## CSMA/CD
+- Conceito e origem
+- Modelo físico
+- manutenção
+- Controle de acesso ao meio
+- Sequência de operações
+- Conceitos envolvidos
+- Exemplo do mecanismo
