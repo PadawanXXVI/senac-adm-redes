@@ -27,7 +27,7 @@ Professor: Moisés Mendes de Andrade
 | 172.16.10.5 | 255.255.0.0/16 | 172.16.0.0 | 172.16.0.1 -> 172.16.255.254 | 172.16.255.255 |
 |192.168.5.1 | 255.255.255.0/24 | 192.168.5.0 | 192.168.5.1 -> 192.168.5.254 | 192.168.5.255 |
 
-![Sub-redes 2](./)
+![Sub-redes 2](./sub-redes2.jpg)
 
 | Endereço IP | Máscara CIDR | Endereço de rede | Intervalo de Hosts | Endereço de broadcast |
 | --- | --- | --- | --- | --- |
