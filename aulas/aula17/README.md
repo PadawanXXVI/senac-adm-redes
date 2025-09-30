@@ -6,6 +6,4 @@ Professor: Moisés Mendes de Andrade
 # ATIVIDADE DE COONCVERSÃO DE DECIMAL PARA BINÁRIO
 
 
-| Número | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
-| --- | --- | --- |  --- | --- | ---- | --- | --- | --- | --- |  
-| 25 | | |  | | | | | |
+[Atividade de conversão](./)
