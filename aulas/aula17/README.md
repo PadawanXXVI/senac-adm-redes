@@ -6,7 +6,7 @@ Professor: Moisés Mendes de Andrade
 # ATIVIDADE DE COONCVERSÃO DE DECIMAL PARA BINÁRIO
 
 
-[Atividade de conversão](./)
+[Atividade de conversão](./tabela.jpeg)
 
 | Número | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 | Binário |
 |--------|-----|----|----|----|---|---|---|---|---|
