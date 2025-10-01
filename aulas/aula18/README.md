@@ -7,12 +7,12 @@ Professor: Moisés Mendes de Andrade
 
 ## Exemplo 1
 
-Dada a rede 192.168.1.0/24, seu iobjetivo é **dividir essa rede em 8 sub-redes com o mesmo tamanho**.  
+Dada a rede 192.168.1.0/24, seu objetivo é **dividir essa rede em 8 sub-redes com o mesmo tamanho**.  
 Você deve apresentar a solução seguindo os passos abaixo, para determinar as novas redes e a máscara correta.
 
 | 128 | 64 | 32| 16 | 8 | 4 | 2 | 1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0| 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 
 
 $$
 2^3 = 8 \text{ → total de sub-redes}
