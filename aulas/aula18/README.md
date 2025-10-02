@@ -40,7 +40,7 @@ $$
 | :--- | :---: | :---: | :---: | :--- | :--- | 
 | 192.168.1.0/24 | Dividir em 4 sub-redes | | | | |
 | 172.16.0.0/16| Dividir em 8 sub-redes| | | | | 
-| 192.168.10.0/24| Dividir em 32 sub-redfes| | | | |
+| 192.168.10.0/24| Dividir em 32 sub-redes| | | | |
 | 10.0.0.0/8 | Dividir em 4 sub-redes | | | | |
 | 172.30.0.0/16| Dividir em 16 sub-redes | | | | |
 
@@ -103,4 +103,23 @@ $$ 256 - \text{(último valor da máscara)} \quad \therefore \quad 256 - 224 = 3
 |                |                        |                | 172.16.192.0       | 172.16.192.1 até 172.16.223.254      | 172.16.223.255    |
 |                |                        |                | 172.16.224.0       | 172.16.224.1 até 172.16.255.254      | 172.16.255.255    |
 
+### 192.168.10.0/24 em 32 sub-redes
+
+$$ 2^5 = 32 \quad \text{Número de bits ativados: 5}$$
+
+| 128 | 64 | 32| 16 | 8 | 4 | 2 | 1 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 |
+
+**Nova máscara de rede:**  
+
+255.255.255.248/29
+
+**Número de hosts por sub-rede:**
+
+$$2^\text{(32-29} - 2 \quad = \quad 2^3 = 8 \quad \text{hosts úteis}$$
+
+**Incremento**
+
+$$ 256 - \text{(último valor da máscara)} \quad \therefore \quad 256 - 248 = 8 $$
 
