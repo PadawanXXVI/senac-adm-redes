@@ -173,7 +173,7 @@ $$2^x = 4 => 2^2 = 4 \quad \therefore \quad \text{números de bits ativados = 2}
 
 **Número de hosts por sub-rede:**
 
-$$2^\text{(32-10)} - 2 \quad = \quad 2^22 - 2 \quad = \quad 4.194.304 - 2 \quad = \quad 4.194.302 \quad \text{hosts disponíveis}$$
+$$2^\text{(32-10)} - 2 \quad = \quad 2^\text{22} - 2 \quad = \quad 4.194.304 - 2 \quad = \quad 4.194.302 \quad \text{hosts disponíveis}$$
 
 **Incremento**
 
@@ -200,7 +200,7 @@ $$2^x = 16 => 2^4 = 16 \quad \therefore \quad \text{números de bits ativados = 
 
 **Número de hosts por sub-rede:**
 
-$$2^\text{(32-20)} - 2 \quad = \quad 2^12 - 2 \quad = \quad 4.096 - 2 \quad = \quad 4.094 \quad \text{hosts disponíveis}$$
+$$2^\text{(32-20)} - 2 \quad = \quad 2^\text{12} - 2 \quad = \quad 4.096 - 2 \quad = \quad 4.094 \quad \text{hosts disponíveis}$$
 
 **Incremento**
 
