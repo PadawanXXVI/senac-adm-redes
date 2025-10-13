@@ -46,3 +46,16 @@ Ao iniciar o PC, a BIOS faz uma varredura ...
 ### Boot 
 
 É a operação de ássagem do sistema operacional do disco onde se encvontra para a memória do computador.
+
+## Processo de instalçao do sistema operacional
+
+1. Utilizar uma feramente com mídia de inicialização - **boot** (pendrive com Ventoy)
+   *Existem outros*
+2. Para inicializar o computador a partir do pendrive/DVD você orecisa acessar o setup da BIOS pressionando uma das teclas (Del, F2, F8 etc.) na primeira tela de inicialização e trocar a ordem de inicialização no setup da BIOS.
+
+### Rufus
+
+É uma ferramenta que ajuda a formatar ue criar flash drivees USB inicializáveis (com boot), UBSkeys, cartões de memória etc.
+
+### Ventoy
+
