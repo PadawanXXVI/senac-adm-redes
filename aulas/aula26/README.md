@@ -39,3 +39,10 @@ O sistema de arquivos é criado durante o processo de formatação de uma parti�
 Um arquivo ISO é uma cópia idêntica (iamgem) de arquivos gravados em um CD, DVD ou BD. Esssas imagens são compostas pelo conteúdo total dos dados contidos num disco óptico, incluindo sistema de boot, número de setores gravados, sistema operacional e sistema de arquivos.  
 Os softwares que criam e fazem a gravação de um arquivo ISO permitem também registrar essas imagens em outros dispositivos de armazanamento, como pen drives ou HDs, para fins como backup ou duplicação de conteudo em larga escala.
 
+## BIOS (Basic Input Output System)
+
+Ao iniciar o PC, a BIOS faz uma varredura ...
+
+### Boot 
+
+É a operação de ássagem do sistema operacional do disco onde se encvontra para a memória do computador.
