@@ -10,3 +10,13 @@ Professor: Moiusés Mendes de Andrade
 ## Criar ponto de restauração
 
 ## Driver Pack Solution
+
+## Dual boot ou mukltboot
+
+## Sistema Operacional Linux
+
+### Kernel
+
+## Linux - Ubuntu
+
+### Após instalção do Ubuntu
