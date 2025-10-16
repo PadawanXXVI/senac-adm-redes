@@ -3,7 +3,7 @@ Brasília, 16 de outubro de 2025
 Anderson de Matos Guimarães  
 Professor: Moisés Mendes de Andrade
 
-# 🐧DIISTRIBUIÇÕES LINUX
+# 🐧DISTRIBUIÇÕES LINUX
 
 ## Estrutura
 
