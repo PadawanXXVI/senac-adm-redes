@@ -11,3 +11,7 @@ Professor: Moisés Mendes de Andrade
 
 ## Dual Boot
 
+![Dual boot](../aula30_2.jpeg)
+
+## Recuperação do Grub
+
