@@ -5,3 +5,9 @@ Professor: Moisés Mendes de Andrade
 
 # LINUX
 
+## Discos e partições
+
+![Discos e partições](../aula30.jpeg)
+
+## Dual Boot
+
