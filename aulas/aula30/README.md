@@ -7,11 +7,11 @@ Professor: Moisés Mendes de Andrade
 
 ## Discos e partições
 
-![Discos e partições](../aula30.jpeg)
+![Discos e partições](aula30.jpeg)
 
 ## Dual Boot
 
-![Dual boot](../aula30_2.jpeg)
+![Dual boot](aula30_2.jpeg)
 
 ## Recuperação do Grub
 
