@@ -1,6 +1,6 @@
 Serviço Nacional de Aprendizagem Comercial  
 Brasília, 30 de outubro de 2025  
-Anderson de Matos Guimarães 
+Anderson de Matos Guimarães  
 Professor: Moisés Mendes de Andrade
 
 # SERVIDOR APACHE E PROXY REVERSO
